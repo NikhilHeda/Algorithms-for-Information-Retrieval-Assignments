@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/prakash/Downloads/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prakash/Downloads/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prakash/Downloads/stanford-corenlp-full-2017-06-09/protobuf.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
