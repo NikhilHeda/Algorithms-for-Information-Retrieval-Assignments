@@ -1,0 +1,1 @@
+Time taken to index: 6295 milliseconds

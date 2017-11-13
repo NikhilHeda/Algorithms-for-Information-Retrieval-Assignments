@@ -1,0 +1,204 @@
+queryString = "Kni*t"
+
+Searching for: kni*t
+40 total matching documents
+1. C:\Users\admin\eclipse-workspace\Lucene\src\Data\17Again.txt
+Title: 17 Again
+Year: 2009
+Director: Burr Steers
+Cast: Zac Efron, Leslie Mann, Thomas Lennon, Matthew Perry, Melora Hardin, Michelle Trachtenberg, Sterling Knight
+Genre: Comedy, Teen
+Notes: New Line Cinema
+
+2. C:\Users\admin\eclipse-workspace\Lucene\src\Data\42.txt
+Title: 42
+Year: 2013
+Director: Brian Helgeland
+Cast: Chadwick Boseman, Harrison Ford, Christopher Meloni, John C. McGinley, Lucas Black, Alan Tudyk, Nicole Beharie, C. J. Nitkowski, Brett Cullen, Kelley Jakle, Ryan Merriman, T. R. Knight, Hamish Linklater
+Genre: Bio-pic, Sports
+Notes: Warner Bros. Pictures, Legendary Pictures
+
+3. C:\Users\admin\eclipse-workspace\Lucene\src\Data\AsGoodasItGets.txt
+Title: As Good as It Gets
+Year: 1997
+Director: James L. Brooks
+Cast: Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding, Jr., Shirley Knight
+Genre: Romantic comedy
+Notes: Oscars for Hunt, Nicholson
+
+4. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BadManfromRedButte.txt
+Title: Bad Man from Red Butte
+Year: 1940
+Director: Ray Taylor
+Cast: Johnny Mack Brown, Bob Baker, Fuzzy Knight
+Genre: Western
+Notes: 
+
+5. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BatmanTheDarkKnightReturns.txt
+Title: Batman: The Dark Knight Returns
+Year: 2012
+Director: Jay Oliva
+Cast: Peter Weller, Ariel Winter, David Selby, Wade Williams
+Genre: Superhero
+Notes: Warner Bros., Based on the comic book The Dark Knight Returns (1986) by Frank Miller
+
+6. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BlackKnight.txt
+Title: Black Knight
+Year: 2001
+Director: Gil Junger
+Cast: Martin Lawrence
+Genre: Comedy
+Notes: 
+
+7. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BossofBoomtown.txt
+Title: Boss of Boomtown
+Year: 1944
+Director: Ray Taylor
+Cast: Rod Cameron, Tom Tyler, Fuzzy Knight
+Genre: Western
+Notes: 
+
+8. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BossofBullionCity.txt
+Title: Boss of Bullion City
+Year: 1940
+Director: Ray Taylor
+Cast: Johnny Mack Brown, Fuzzy Knight, Nell O'Day
+Genre: Western
+Notes: 
+
+9. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Caddyshack.txt
+Title: Caddyshack
+Year: 1980
+Director: Harold Ramis
+Cast: Chevy Chase, Rodney Dangerfield, Bill Murray, Ted Knight, Michael O'Keefe, Cindy Morgan
+Genre: Comedy
+Notes: first film directed by Ramis
+
+10. C:\Users\admin\eclipse-workspace\Lucene\src\Data\ChipoftheFlyingU.txt
+Title: Chip of the Flying U
+Year: 1939
+Director: Ralph Staub
+Cast: Johnny Mack Brown, Bob Baker, Fuzzy Knight, Doris Weston
+Genre: Western
+Notes: Universal
+
+11. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DatewithanAngel.txt
+Title: Date with an Angel
+Year: 1987
+Director: Tom McLoughlin
+Cast: Michael E. Knight, Emmanuelle B?art, David Dukes, Phoebe Cates
+Genre: Romantic comedy
+Notes: DeLaurentiis Entertainment
+
+12. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DemonKnight.txt
+Title: Demon Knight
+Year: 1995
+Director: Ernest R. Dickerson
+Cast: William Sadler, Billy Zane, Jada Pinkett Smith
+Genre: Horror
+Notes: 
+
+13. C:\Users\admin\eclipse-workspace\Lucene\src\Data\FirstKnight.txt
+Title: First Knight
+Year: 1995
+Director: Jerry Zucker
+Cast: Sean Connery, Richard Gere, Julia Ormond
+Genre: Fantasy
+Notes: King Arthur tale
+
+14. C:\Users\admin\eclipse-workspace\Lucene\src\Data\HouseofWomen.txt
+Title: House of Women
+Year: 1962
+Director: Crane Wilbur
+Cast: Shirley Knight, Andrew Duggan, Constance Ford
+Genre: Drama
+Notes: Warner Bros.
+
+15. C:\Users\admin\eclipse-workspace\Lucene\src\Data\ICanDoBadAllByMyself.txt
+Title:  I Can Do Bad All By Myself
+Year: 2009
+Director: Tyler Perry
+Cast: Tyler Perry, Taraji P. Henson, Mary J. Blige, Adam Rodr?guez, Brian White, Gladys Knight, Pastor Marvin Winans
+Genre: Comedy, Drama
+Notes: Lionsgate, Preceded by Madea Goes to Jail
+
+16. C:\Users\admin\eclipse-workspace\Lucene\src\Data\IndictmentTheMcMartinTrial.txt
+Title: Indictment: The McMartin Trial
+Year: 1995
+Director: Mick Jackson
+Cast: James Woods, Mercedes Ruehl, Henry Thomas, Lolita Davidovich, Shirley Knight, Sada Thompson
+Genre: Drama, Biography
+Notes: HBO; won 3 Emmy Awards, 1 Golden Globe
+
+17. C:\Users\admin\eclipse-workspace\Lucene\src\Data\KnightandDay.txt
+Title: Knight and Day
+Year: 2010
+Director: James Mangold
+Cast: Tom Cruise, Cameron Diaz, Maggie Grace, Peter Sarsgaard, Paul Dano, Viola Davis
+Genre: Action-comedy
+Notes: 20th Century Fox
+
+18. C:\Users\admin\eclipse-workspace\Lucene\src\Data\KnightMoves.txt
+Title: Knight Moves
+Year: 1992
+Director: Carl Schenkel
+Cast: Christopher Lambert, Diane Lane
+Genre: Thriller
+Notes: Cineplex Odeon
+
+19. C:\Users\admin\eclipse-workspace\Lucene\src\Data\KnightRider2010.txt
+Title: Knight Rider 2010
+Year: 1994
+Director: Sam Pillsbury
+Cast: Richard Joseph Paul
+Genre: Action
+Notes: TV
+
+20. C:\Users\admin\eclipse-workspace\Lucene\src\Data\KnightyKnightBugs.txt
+Title: Knighty Knight Bugs
+Year: 1958
+Director: Friz Freleng
+Cast: Mel Blanc (voice)
+Genre: Animated
+Notes: Warner Bros.
+
+21. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Lassie.txt
+Title: Lassie
+Year: 2005
+Director: Charles Sturridge
+Cast: Jonathan Mason, Peter O'Toole, Samantha Morton
+Genre: Drama, family
+Notes: based on Lassie Come Home and on Lassie Come-Home by Eric Knight
+
+22. C:\Users\admin\eclipse-workspace\Lucene\src\Data\MadeaGoestoJail.txt
+Title:  Madea Goes to Jail
+Year: 2009
+Director: Tyler Perry
+Cast: Tyler Perry, Sof?a Vergara, Vanessa Ferlito, Derek Luke, Keshia Knight Pulliam, David Mann, Ion Overman, RonReaco Lee, Viola Davis
+Genre: Comedy, Drama
+Notes: Lionsgate; based on Madea Goes to Jail
+
+23. C:\Users\admin\eclipse-workspace\Lucene\src\Data\NickKnight.txt
+Title: Nick Knight
+Year: 1989
+Director: 
+Cast: Rick Springfield
+Genre: Drama
+Notes: TV
+
+24. C:\Users\admin\eclipse-workspace\Lucene\src\Data\OurIdiotBrother.txt
+Title: Our Idiot Brother
+Year: 2011
+Director: Jesse Peretz
+Cast: Paul Rudd, Elizabeth Banks, Zooey Deschanel, Emily Mortimer, Steve Coogan, Hugh Dancy, Kathryn Hahn, Rashida Jones, Shirley Knight, T. J. Miller, Adam Scott
+Genre: Dramedy
+Notes: The Weinstein Company
+
+25. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PaulBlartMallCop.txt
+Title: Paul Blart: Mall Cop
+Year: 2009
+Director: Steve Carr
+Cast: Kevin James, Jayma Mays, Keir O'Donnell, Bobby Cannavale, Stephen Rannazzisi, Shirley Knight
+Genre: Comedy
+Notes: Columbia Pictures
+

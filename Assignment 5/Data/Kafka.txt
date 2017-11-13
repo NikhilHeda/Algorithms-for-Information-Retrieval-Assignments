@@ -1,0 +1,6 @@
+Title: Kafka
+Year: 1991
+Director: Steven Soderbergh
+Cast: Jeremy Irons, Alec Guinness, Theresa Russell, Ian Holm
+Genre: Mystery
+Notes: 

@@ -1,0 +1,6 @@
+Title: Movie Movie
+Year: 1978
+Director: Stanley Donen
+Cast: George C. Scott, Art Carney, Ann Reinking, Harry Hamlin, Trish Van Devere, Barry Bostwick, Red Buttons
+Genre: Comedy, Musical
+Notes: Double feature

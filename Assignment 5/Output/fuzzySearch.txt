@@ -1,0 +1,201 @@
+Searching for: jenifer~1
+278 total matching documents
+1. C:\Users\prakash\Desktop\Assignment 5\NewData\TheAnniversaryParty.txt
+Title: The Anniversary Party
+Year: 2001
+Director: Alan Cumming, Jennifer Jason Leigh
+Cast: Alan Cumming, Jennifer Jason Leigh, Kevin Kline
+Genre: Comedy, Drama
+Notes: 
+
+2. C:\Users\prakash\Desktop\Assignment 5\NewData\HouseArrest.txt
+Title: House Arrest
+Year: 1996
+Director: Harry Winer
+Cast: Jamie Lee Curtis, Kevin Pollak, Jennifer Tilly, Christopher McDonald, Jennifer Love Hewitt, Ray Walston
+Genre: Comedy
+Notes: 
+
+3. C:\Users\prakash\Desktop\Assignment 5\NewData\FriendswithKids.txt
+Title: Friends with Kids
+Year: 2012
+Director: Jennifer Westfeldt
+Cast: Adam Scott, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Maya Rudolph, Chris O'Dowd, Megan Fox, Edward Burns
+Genre: Comedy
+Notes: Lionsgate
+
+4. C:\Users\prakash\Desktop\Assignment 5\NewData\KissingJessicaStein.txt
+Title: Kissing Jessica Stein
+Year: 2001
+Director: Charles Herman-Wurmfeld
+Cast: Jennifer Westfeldt, Heather Juergensen, Scott Cohen, Jackie Hoffman
+Genre: Romantic comedy
+Notes: based on Lipschtick by Heather Juergensen and Jennifer Westfeldt
+
+5. C:\Users\prakash\Desktop\Assignment 5\NewData\MeettheBrowns.txt
+Title: Meet the Browns
+Year: 2008
+Director: Tyler Perry
+Cast: Tyler Perry, Angela Bassett, Jenifer Lewis, Rick Fox
+Genre: Comedy
+Notes: Lionsgate
+
+6. C:\Users\prakash\Desktop\Assignment 5\NewData\MrsParkerandtheViciousCircle.txt
+Title: Mrs. Parker and the Vicious Circle
+Year: 1994
+Director: Alan Rudolph
+Cast: Jennifer Jason Leigh, Matthew Broderick, Campbell Scott, Lili Taylor, Martha Plimpton, Keith Carradine, Jennifer Beals
+Genre: Drama, Biography
+Notes: story of Dorothy Parker and Algonquin Round Table
+
+7. C:\Users\prakash\Desktop\Assignment 5\NewData\BadDreams.txt
+Title: Bad Dreams
+Year: 1988
+Director: Andrew Fleming
+Cast: Jennifer Rubin
+Genre: Horror, Thriller
+Notes: 
+
+8. C:\Users\prakash\Desktop\Assignment 5\NewData\Leprechaun.txt
+Title: Leprechaun
+Year: 1993
+Director: Mark Jones
+Cast: Warwick Davis, Jennifer Aniston
+Genre: Horror
+Notes: 
+
+9. C:\Users\prakash\Desktop\Assignment 5\NewData\LetItBeMe.txt
+Title: Let It Be Me
+Year: 1995
+Director: Eleanor Bergstein
+Cast: Campbell Scott, Jennifer Beals
+Genre: 
+Notes: 
+
+10. C:\Users\prakash\Desktop\Assignment 5\NewData\TheIdol.txt
+Title: The Idol
+Year: 1966
+Director: Daniel Petrie
+Cast: Jennifer Jones, Michael Parks
+Genre: Drama
+Notes: 
+
+11. C:\Users\prakash\Desktop\Assignment 5\NewData\TheSongofBernadette.txt
+Title: The Song of Bernadette
+Year: 1943
+Director: Henry King
+Cast: Jennifer Jones
+Genre: Bio-pic
+Notes: 
+
+12. C:\Users\prakash\Desktop\Assignment 5\NewData\Bordertown.txt
+Title: Bordertown
+Year: 2006
+Director: Gregory Nava
+Cast: Jennifer Lopez, Antonio Banderas
+Genre: Crime drama
+Notes: 
+
+13. C:\Users\prakash\Desktop\Assignment 5\NewData\DreamforanInsomniac.txt
+Title: Dream for an Insomniac
+Year: 1996
+Director: Tiffanie DeBartolo
+Cast: Ione Skye, Jennifer Aniston
+Genre: Drama
+Notes: 
+
+14. C:\Users\prakash\Desktop\Assignment 5\NewData\Georgia.txt
+Title: Georgia
+Year: 1995
+Director: Ulu Grosbard
+Cast: Jennifer Jason Leigh, Mare Winningham
+Genre: Drama
+Notes: 
+
+15. C:\Users\prakash\Desktop\Assignment 5\NewData\LadyIce.txt
+Title: Lady Ice
+Year: 1973
+Director: Tom Gries
+Cast: Donald Sutherland, Jennifer O'Neill
+Genre: Crime
+Notes: 
+
+16. C:\Users\prakash\Desktop\Assignment 5\NewData\PermanentRecord.txt
+Title: Permanent Record
+Year: 1988
+Director: Marisa Silver
+Cast: Keanu Reeves, Jennifer Rubin
+Genre: Drama
+Notes: 
+
+17. C:\Users\prakash\Desktop\Assignment 5\NewData\RemoteControl.txt
+Title: Remote Control
+Year: 1988
+Director: Jeff Lieberman
+Cast: Kevin Dillon, Jennifer Tilly
+Genre: Comedy
+Notes: 
+
+18. C:\Users\prakash\Desktop\Assignment 5\NewData\RockStar.txt
+Title: Rock Star
+Year: 2001
+Director: Stephen Herek
+Cast: Mark Wahlberg, Jennifer Aniston
+Genre: Drama
+Notes: 
+
+19. C:\Users\prakash\Desktop\Assignment 5\NewData\Screamers.txt
+Title: Screamers
+Year: 1995
+Director: Christian Duguay
+Cast: Peter Weller, Jennifer Rubin
+Genre: Science fiction
+Notes: 
+
+20. C:\Users\prakash\Desktop\Assignment 5\NewData\Sisters.txt
+Title: Sisters
+Year: 1973
+Director: Brian De Palma
+Cast: Margot Kidder, Jennifer Salt
+Genre: Horror
+Notes: 
+
+21. C:\Users\prakash\Desktop\Assignment 5\NewData\Suburbia.txt
+Title: Suburbia
+Year: 1984
+Director: Penelope Spheeris
+Cast: Jennifer Clay, Flea, Christina Beck
+Genre: Comedy
+Notes: 
+
+22. C:\Users\prakash\Desktop\Assignment 5\NewData\TheBreakUp.txt
+Title: The Break-Up
+Year: 2006
+Director: Peyton Reed
+Cast: Vince Vaughn, Jennifer Aniston
+Genre: Romance
+Notes: 
+
+23. C:\Users\prakash\Desktop\Assignment 5\NewData\TrojanWar.txt
+Title: Trojan War
+Year: 1997
+Director: George Huang
+Cast: Will Friedle, Jennifer Love Hewitt
+Genre: Comedy
+Notes: 
+
+24. C:\Users\prakash\Desktop\Assignment 5\NewData\Wind.txt
+Title: Wind
+Year: 1992
+Director: Carroll Ballard
+Cast: Matthew Modine, Jennifer Grey
+Genre: Drama
+Notes: TriStar
+
+25. C:\Users\prakash\Desktop\Assignment 5\NewData\AngelAngelDownWeGo.txt
+Title: Angel, Angel, Down We Go
+Year: 1969
+Director: Robert Thorn
+Cast: Jennifer Jones
+Genre: Drama
+Notes: 

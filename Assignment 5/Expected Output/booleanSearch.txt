@@ -1,0 +1,36 @@
+queryString = "\"Pirates\" AND \"Johnny\"";
+
+Searching for: +pirates +johnny
+4 total matching documents
+1. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PiratesoftheCaribbeanTheCurseoftheBlackPearl.txt
+Title: Pirates of the Caribbean: The Curse of the Black Pearl
+Year: 2003
+Director: Gore Verbinski
+Cast: Orlando Bloom, Johnny Depp, Keira Knightley, Geoffrey Rush
+Genre: Fantasy, swashbuckler
+Notes: based on Pirates of the Caribbean
+
+2. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PiratesoftheCaribbeanAtWorldsEnd.txt
+Title: Pirates of the Caribbean: At World's End
+Year: 2007
+Director: Gore Verbinski
+Cast: Johnny Depp, Orlando Bloom, Keira Knightley, Bill Nighy, Geoffrey Rush, Chow Yun-fat
+Genre: Adventure, swashbuckler
+Notes: preceded by Pirates of the Caribbean: Dead Man's Chest
+
+3. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PiratesoftheCaribbeanDeadMansChest.txt
+Title: Pirates of the Caribbean: Dead Man's Chest
+Year: 2006
+Director: Gore Verbinski
+Cast: Johnny Depp, Orlando Bloom, Keira Knightley, Geoffrey Rush
+Genre: Adventure
+Notes: preceded by Pirates of the Caribbean: The Curse of the Black Pearl
+
+4. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PiratesoftheCaribbeanOnStrangerTides.txt
+Title: Pirates of the Caribbean: On Stranger Tides
+Year: 2011
+Director: Rob Marshall
+Cast: Johnny Depp, Pen?lope Cruz, Ian McShane, Kevin McNally and Geoffrey Rush
+Genre: Action-adventure, Family
+Notes: Walt Disney Pictures, Preceded by Pirates of the Caribbean: At World's End (2007)
+

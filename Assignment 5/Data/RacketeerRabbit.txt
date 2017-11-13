@@ -1,0 +1,6 @@
+Title: Racketeer Rabbit
+Year: 1946
+Director: Friz Freleng
+Cast: Bugs Bunny
+Genre: Animation
+Notes: Warner Bros.

@@ -1,0 +1,6 @@
+Title:  X-Men
+Year: 2000
+Director: Bryan Singer
+Cast: Hugh Jackman, Patrick Stewart, Ian McKellen
+Genre: Action, sci-fi
+Notes: based on the X-Men

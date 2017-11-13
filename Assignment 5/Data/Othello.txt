@@ -1,0 +1,6 @@
+Title: Othello
+Year: 1995
+Director: Oliver Parker
+Cast: Laurence Fishburne, Kenneth Branagh
+Genre: Drama
+Notes: based on the play by William Shakespeare

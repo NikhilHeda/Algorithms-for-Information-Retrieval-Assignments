@@ -1,0 +1,6 @@
+Title: The Movies
+Year: 1925
+Director: Fatty Arbuckle
+Cast: Lloyd Hamilton
+Genre: Comedy
+Notes: 

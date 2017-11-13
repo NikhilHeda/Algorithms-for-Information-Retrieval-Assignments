@@ -1,0 +1,6 @@
+Title: American Movie
+Year: 1999
+Director: Chris Smith
+Cast: Mark Borchardt, Tom Schimmels
+Genre: Documentary
+Notes: 

@@ -1,0 +1,6 @@
+Title: Date Movie
+Year: 2006
+Director: Aaron Seltzer
+Cast: Alyson Hannigan, Adam Campbell, Jennifer Coolidge, Tony Cox
+Genre: Romantic comedy
+Notes: 

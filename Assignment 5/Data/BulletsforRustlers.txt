@@ -1,0 +1,6 @@
+Title: Bullets for Rustlers
+Year: 1940
+Director: Sam Nelson
+Cast: Charles Starrett, Lorna Gray, Bob Nolan
+Genre: Western
+Notes: 

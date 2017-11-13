@@ -1,0 +1,6 @@
+Title: Adventure
+Year: 1945
+Director: Victor Fleming
+Cast: Clark Gable, Greer Garson
+Genre: Adventure
+Notes: MGM

@@ -1,0 +1,204 @@
+queryString = "jenifer~1";
+
+Searching for: jenifer~1
+278 total matching documents
+1. C:\Users\admin\eclipse-workspace\Lucene\src\Data\MeettheBrowns.txt
+Title: Meet the Browns
+Year: 2008
+Director: Tyler Perry
+Cast: Tyler Perry, Angela Bassett, Jenifer Lewis, Rick Fox
+Genre: Comedy
+Notes: Lionsgate
+
+2. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Hereafter.txt
+Title: Hereafter
+Year: 2010
+Director: Clint Eastwood
+Cast: Matt Damon, C?cile de France, Bryce Dallas Howard, Lyndsey Marshal, Jay Mohr, Thierry Neuvic, Jenifer Lewis
+Genre: Drama
+Notes: Warner Bros. Pictures
+
+3. C:\Users\admin\eclipse-workspace\Lucene\src\Data\NotEasilyBroken.txt
+Title: Not Easily Broken
+Year: 2009
+Director: Bill Duke
+Cast: Morris Chestnut, Taraji P. Henson, Kevin Hart, Eddie Cibrian, Jenifer Lewis
+Genre: Drama
+Notes: Screen Gems; based on Not Easily Broken by T. D. Jakes
+
+4. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheHeartSpecialist.txt
+Title: The Heart Specialist
+Year: 2011
+Director: Dennis Cooper
+Cast: Wood Harris, Zoe Saldana, Brian White, M?a, Method Man, Jasmine Guy, Leon, Ed Asner, Jenifer Lewis, Terrence J, Marla Gibbs, Nephew Tommy
+Genre: Romantic comedy
+Notes: Freestyle Releasing
+
+5. C:\Users\admin\eclipse-workspace\Lucene\src\Data\ThinkLikeaMan.txt
+Title: Think Like a Man
+Year: 2012
+Director: Tim Story
+Cast: Michael Ealy, Jerry Ferrara, Meagan Good, Regina Hall, Kevin Hart, Taraji P. Henson, Terrence J, Romany Malco, Gabrielle Union, Steve Harvey, Gary Owen, Chris Brown, Wendy Williams, Tony Rock, La La Anthony, Sherri Shepherd, Tika Sumpter, Keri Hilson, Kelly Rowland, Jenifer Lewis
+Genre: Romantic comedy
+Notes: Screen Gems, Based on the self-help book Act Like a Lady, Think Like a Man by Steve Harvey
+
+6. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Cars2.txt
+Title: Cars 2
+Year: 2011
+Director: John Lasseter, Brad Lewis (co-director)
+Cast: Owen Wilson, Larry the Cable Guy, Michael Caine, Emily Mortimer, Eddie Izzard, Jason Isaacs, Thomas Kretschmann, Joe Mantegna, Peter Jacobson, Tony Shalhoub, Guido Quaroni, Paul Dooley, John Ratzenberger, John Turturro, Jeff Gordon, Lewis Hamilton, Darrell Waltrip, Brent Musburger, David Hobbs, Bruce Campbell, John Lasseter, Franco Nero, Vanessa Redgrave, Michel Michelis, Bonnie Hunt, Cheech Marin, Jenifer Lewis, Michael Wallis, Lloyd Sherr, Sig Hansen, Jeff Garlin, Katherine Helmond
+Genre: Animated, Family, Spy film
+Notes: Walt Disney Pictures, Pixar, Preceded by Cars (2006)
+
+7. C:\Users\admin\eclipse-workspace\Lucene\src\Data\HouseArrest.txt
+Title: House Arrest
+Year: 1996
+Director: Harry Winer
+Cast: Jamie Lee Curtis, Kevin Pollak, Jennifer Tilly, Christopher McDonald, Jennifer Love Hewitt, Ray Walston
+Genre: Comedy
+Notes: 
+
+8. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheAnniversaryParty.txt
+Title: The Anniversary Party
+Year: 2001
+Director: Alan Cumming, Jennifer Jason Leigh
+Cast: Alan Cumming, Jennifer Jason Leigh, Kevin Kline
+Genre: Comedy, Drama
+Notes: 
+
+9. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BadDreams.txt
+Title: Bad Dreams
+Year: 1988
+Director: Andrew Fleming
+Cast: Jennifer Rubin
+Genre: Horror, Thriller
+Notes: 
+
+10. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Bordertown.txt
+Title: Bordertown
+Year: 2006
+Director: Gregory Nava
+Cast: Jennifer Lopez, Antonio Banderas
+Genre: Crime drama
+Notes: 
+
+11. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DreamforanInsomniac.txt
+Title: Dream for an Insomniac
+Year: 1996
+Director: Tiffanie DeBartolo
+Cast: Ione Skye, Jennifer Aniston
+Genre: Drama
+Notes: 
+
+12. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Georgia.txt
+Title: Georgia
+Year: 1995
+Director: Ulu Grosbard
+Cast: Jennifer Jason Leigh, Mare Winningham
+Genre: Drama
+Notes: 
+
+13. C:\Users\admin\eclipse-workspace\Lucene\src\Data\LadyIce.txt
+Title: Lady Ice
+Year: 1973
+Director: Tom Gries
+Cast: Donald Sutherland, Jennifer O'Neill
+Genre: Crime
+Notes: 
+
+14. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Leprechaun.txt
+Title: Leprechaun
+Year: 1993
+Director: Mark Jones
+Cast: Warwick Davis, Jennifer Aniston
+Genre: Horror
+Notes: 
+
+15. C:\Users\admin\eclipse-workspace\Lucene\src\Data\LetItBeMe.txt
+Title: Let It Be Me
+Year: 1995
+Director: Eleanor Bergstein
+Cast: Campbell Scott, Jennifer Beals
+Genre: 
+Notes: 
+
+16. C:\Users\admin\eclipse-workspace\Lucene\src\Data\PermanentRecord.txt
+Title: Permanent Record
+Year: 1988
+Director: Marisa Silver
+Cast: Keanu Reeves, Jennifer Rubin
+Genre: Drama
+Notes: 
+
+17. C:\Users\admin\eclipse-workspace\Lucene\src\Data\RemoteControl.txt
+Title: Remote Control
+Year: 1988
+Director: Jeff Lieberman
+Cast: Kevin Dillon, Jennifer Tilly
+Genre: Comedy
+Notes: 
+
+18. C:\Users\admin\eclipse-workspace\Lucene\src\Data\RockStar.txt
+Title: Rock Star
+Year: 2001
+Director: Stephen Herek
+Cast: Mark Wahlberg, Jennifer Aniston
+Genre: Drama
+Notes: 
+
+19. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Screamers.txt
+Title: Screamers
+Year: 1995
+Director: Christian Duguay
+Cast: Peter Weller, Jennifer Rubin
+Genre: Science fiction
+Notes: 
+
+20. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Sisters.txt
+Title: Sisters
+Year: 1973
+Director: Brian De Palma
+Cast: Margot Kidder, Jennifer Salt
+Genre: Horror
+Notes: 
+
+21. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Suburbia.txt
+Title: Suburbia
+Year: 1984
+Director: Penelope Spheeris
+Cast: Jennifer Clay, Flea, Christina Beck
+Genre: Comedy
+Notes: 
+
+22. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheBreakUp.txt
+Title: The Break-Up
+Year: 2006
+Director: Peyton Reed
+Cast: Vince Vaughn, Jennifer Aniston
+Genre: Romance
+Notes: 
+
+23. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheIdol.txt
+Title: The Idol
+Year: 1966
+Director: Daniel Petrie
+Cast: Jennifer Jones, Michael Parks
+Genre: Drama
+Notes: 
+
+24. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheSongofBernadette.txt
+Title: The Song of Bernadette
+Year: 1943
+Director: Henry King
+Cast: Jennifer Jones
+Genre: Bio-pic
+Notes: 
+
+25. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TrojanWar.txt
+Title: Trojan War
+Year: 1997
+Director: George Huang
+Cast: Will Friedle, Jennifer Love Hewitt
+Genre: Comedy
+Notes: 
+

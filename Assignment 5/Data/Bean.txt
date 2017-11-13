@@ -1,0 +1,6 @@
+Title: Bean
+Year: 1997
+Director: Mel Smith
+Cast: Rowan Atkinson
+Genre: Comedy
+Notes: based on Mr. Bean

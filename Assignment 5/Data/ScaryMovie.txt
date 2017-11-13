@@ -1,0 +1,6 @@
+Title: Scary Movie
+Year: 2000
+Director: Keenen Ivory Wayans
+Cast: Marlon Wayans, Anna Faris, Carmen Electra
+Genre: Comedy
+Notes: 

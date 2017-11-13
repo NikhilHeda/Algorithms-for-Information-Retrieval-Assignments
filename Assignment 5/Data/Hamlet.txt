@@ -1,0 +1,6 @@
+Title:  Hamlet
+Year: 2000
+Director: Michael Almereyda
+Cast: Ethan Hawke, Diane Venora, Julia Stiles
+Genre: Drama
+Notes: Based on Hamlet by William Shakespeare

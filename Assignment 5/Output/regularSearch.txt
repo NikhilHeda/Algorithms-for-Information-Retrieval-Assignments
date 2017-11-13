@@ -1,0 +1,201 @@
+Searching for: thriller
+653 total matching documents
+1. C:\Users\prakash\Desktop\Assignment 5\NewData\WonbyWireless.txt
+Title: Won by Wireless
+Year: 1911
+Director: 
+Cast: William Garwood
+Genre: Thriller
+Notes: 
+
+2. C:\Users\prakash\Desktop\Assignment 5\NewData\November.txt
+Title: November
+Year: 2004
+Director: Greg Harrison
+Cast: Courteney Cox
+Genre: Thriller
+Notes: 
+
+3. C:\Users\prakash\Desktop\Assignment 5\NewData\AWomanScorned.txt
+Title: A Woman Scorned
+Year: 1999
+Director: Treva Etienne
+Cast: Marcia Johnson
+Genre: Thriller
+Notes: 
+
+4. C:\Users\prakash\Desktop\Assignment 5\NewData\CardiacArrest.txt
+Title: Cardiac Arrest
+Year: 1980
+Director: Murray Mintz
+Cast: Garry Goodrow
+Genre: Thriller
+Notes: 
+
+5. C:\Users\prakash\Desktop\Assignment 5\NewData\DreamMachine.txt
+Title: Dream Machine
+Year: 1990
+Director: Lyman Dayton
+Cast: Corey Haim
+Genre: Thriller
+Notes: 
+
+6. C:\Users\prakash\Desktop\Assignment 5\NewData\GatorBait.txt
+Title: 'Gator Bait
+Year: 1974
+Director: Beverly Sebastion
+Cast: Claudia Jennings
+Genre: Thriller
+Notes: 
+
+7. C:\Users\prakash\Desktop\Assignment 5\NewData\LongDistance.txt
+Title: Long Distance
+Year: 2005
+Director: Marcus Stern
+Cast: Monica Keena
+Genre: Thriller
+Notes: 
+
+8. C:\Users\prakash\Desktop\Assignment 5\NewData\Pentathlon.txt
+Title: Pentathlon
+Year: 1994
+Director: Bruce Malmuth
+Cast: Dolph Lundgren
+Genre: Action thriller
+Notes: 
+
+9. C:\Users\prakash\Desktop\Assignment 5\NewData\RevelationakaApocalypse.txt
+Title: Revelation aka Apocalypse
+Year: 1999
+Director: Andre van Heerden
+Cast: 
+Genre: Thriller
+Notes: 
+
+10. C:\Users\prakash\Desktop\Assignment 5\NewData\Saboteur.txt
+Title: Saboteur
+Year: 1942
+Director: Alfred Hitchcock
+Cast: Robert Cummings
+Genre: Thriller
+Notes: Paramount
+
+11. C:\Users\prakash\Desktop\Assignment 5\NewData\TheStrangler.txt
+Title: The Strangler
+Year: 1964
+Director: Burt Topper
+Cast: Victor Buono
+Genre: Thriller
+Notes: Allied
+
+12. C:\Users\prakash\Desktop\Assignment 5\NewData\BadDreams.txt
+Title: Bad Dreams
+Year: 1988
+Director: Andrew Fleming
+Cast: Jennifer Rubin
+Genre: Horror, Thriller
+Notes: 
+
+13. C:\Users\prakash\Desktop\Assignment 5\NewData\Bedlam.txt
+Title: Bedlam
+Year: 1946
+Director: Mark Robson
+Cast: Boris Karloff, Anna Lee
+Genre: Thriller
+Notes: 
+
+14. C:\Users\prakash\Desktop\Assignment 5\NewData\Buried.txt
+Title: Buried
+Year: 2010
+Director: Rodrigo Cort?s
+Cast: Ryan Reynolds
+Genre: Thriller
+Notes: Lionsgate
+
+15. C:\Users\prakash\Desktop\Assignment 5\NewData\Crawlspace.txt
+Title: Crawlspace
+Year: 1986
+Director: David Schmoeller
+Cast: Klaus Kinski, Talia Balsam
+Genre: Thriller
+Notes: 
+
+16. C:\Users\prakash\Desktop\Assignment 5\NewData\IslandofDoomedMen.txt
+Title: Island of Doomed Men
+Year: 1940
+Director: Charles Barton
+Cast: Peter Lorre
+Genre: Thriller
+Notes: 
+
+17. C:\Users\prakash\Desktop\Assignment 5\NewData\Joshua.txt
+Title:  Joshua
+Year: 2007
+Director: George Ratliff
+Cast: Sam Rockwell, Vera Farmiga
+Genre: Thriller
+Notes: 
+
+18. C:\Users\prakash\Desktop\Assignment 5\NewData\Malicious.txt
+Title: Malicious
+Year: 1996
+Director: Ian Corson
+Cast: Molly Ringwald
+Genre: Thriller
+Notes: Republic Pictures
+
+19. C:\Users\prakash\Desktop\Assignment 5\NewData\NotForgotten.txt
+Title: Not Forgotten
+Year: 2009
+Director: Dror Soref
+Cast: Simon Baker, Paz Vega
+Genre: Thriller
+Notes: 
+
+20. C:\Users\prakash\Desktop\Assignment 5\NewData\Shocker.txt
+Title: Shocker
+Year: 1989
+Director: Wes Craven
+Cast: Mitch Pileggi, Michael Murphy
+Genre: Thriller
+Notes: 
+
+21. C:\Users\prakash\Desktop\Assignment 5\NewData\TheMystic.txt
+Title: The Mystic
+Year: 1925
+Director: Tod Browning
+Cast: Aileen Pringle, Conway Tearle
+Genre: Thriller
+Notes: 
+
+22. C:\Users\prakash\Desktop\Assignment 5\NewData\TheSecretWays.txt
+Title: The Secret Ways
+Year: 1961
+Director: Phil Karlson
+Cast: Richard Widmark
+Genre: Thriller
+Notes: Universal
+
+23. C:\Users\prakash\Desktop\Assignment 5\NewData\TheSkulls.txt
+Title: The Skulls
+Year: 2000
+Director: Rob Cohen
+Cast: Joshua Jackson, Paul Walker
+Genre: Thriller
+Notes: 
+
+24. C:\Users\prakash\Desktop\Assignment 5\NewData\WiththeMountedPolice.txt
+Title: With the Mounted Police
+Year: 1912
+Director: 
+Cast: William Garwood, Mignon Anderson
+Genre: Romantic thriller
+Notes: 
+
+25. C:\Users\prakash\Desktop\Assignment 5\NewData\Anamorph.txt
+Title: Anamorph
+Year: 2007
+Director: Henry S. Miller
+Cast: Willem Dafoe, Scott Speedman
+Genre: Thriller
+Notes: 

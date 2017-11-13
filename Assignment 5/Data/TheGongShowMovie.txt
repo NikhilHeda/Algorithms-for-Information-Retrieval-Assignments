@@ -1,0 +1,6 @@
+Title: The Gong Show Movie
+Year: 1980
+Director: Chuck Barris
+Cast: Chuck Barris
+Genre: Comedy
+Notes: based on TV game show

@@ -1,0 +1,6 @@
+Title: A Movie
+Year: 1958
+Director: Bruce Conner
+Cast: 
+Genre: Experimental short
+Notes: 

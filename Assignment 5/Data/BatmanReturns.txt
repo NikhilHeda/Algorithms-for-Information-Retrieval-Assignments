@@ -1,0 +1,6 @@
+Title: Batman Returns
+Year: 1992
+Director: Tim Burton
+Cast: Michael Keaton, Danny DeVito, Michelle Pfeiffer
+Genre: Superhero
+Notes: sequel to 1989 film

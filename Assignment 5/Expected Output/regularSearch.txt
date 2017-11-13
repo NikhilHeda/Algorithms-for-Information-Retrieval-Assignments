@@ -1,0 +1,204 @@
+queryString = "Thriller"
+
+Searching for: thriller
+653 total matching documents
+1. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Anamorph.txt
+Title: Anamorph
+Year: 2007
+Director: Henry S. Miller
+Cast: Willem Dafoe, Scott Speedman
+Genre: Thriller
+Notes: 
+
+2. C:\Users\admin\eclipse-workspace\Lucene\src\Data\AWomanScorned.txt
+Title: A Woman Scorned
+Year: 1999
+Director: Treva Etienne
+Cast: Marcia Johnson
+Genre: Thriller
+Notes: 
+
+3. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BadDreams.txt
+Title: Bad Dreams
+Year: 1988
+Director: Andrew Fleming
+Cast: Jennifer Rubin
+Genre: Horror, Thriller
+Notes: 
+
+4. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BadInfluence.txt
+Title: Bad Influence
+Year: 1990
+Director: Curtis Hanson
+Cast: Rob Lowe, James Spader
+Genre: Thriller
+Notes: 
+
+5. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Bedlam.txt
+Title: Bedlam
+Year: 1946
+Director: Mark Robson
+Cast: Boris Karloff, Anna Lee
+Genre: Thriller
+Notes: 
+
+6. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BlastofSilence.txt
+Title: Blast of Silence
+Year: 1961
+Director: Allen Baron
+Cast: Allen Baron, Larry Tucker
+Genre: Thriller
+Notes: 
+
+7. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Buried.txt
+Title: Buried
+Year: 2010
+Director: Rodrigo Cort?s
+Cast: Ryan Reynolds
+Genre: Thriller
+Notes: Lionsgate
+
+8. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Captivity.txt
+Title: Captivity
+Year: 2007
+Director: Roland Joff?
+Cast: Elisha Cuthbert, Daniel Gillies
+Genre: Thriller
+Notes: Lionsgate
+
+9. C:\Users\admin\eclipse-workspace\Lucene\src\Data\CardiacArrest.txt
+Title: Cardiac Arrest
+Year: 1980
+Director: Murray Mintz
+Cast: Garry Goodrow
+Genre: Thriller
+Notes: 
+
+10. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Crawlspace.txt
+Title: Crawlspace
+Year: 1986
+Director: David Schmoeller
+Cast: Klaus Kinski, Talia Balsam
+Genre: Thriller
+Notes: 
+
+11. C:\Users\admin\eclipse-workspace\Lucene\src\Data\CrimeInc.txt
+Title: Crime, Inc.
+Year: 1945
+Director: Lew Landers
+Cast: Leo Carrillo, Tom Neal
+Genre: Thriller
+Notes: 
+
+12. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DangerousGround.txt
+Title: Dangerous Ground
+Year: 1997
+Director: Darrell Roodt
+Cast: Ice Cube, Elizabeth Hurley
+Genre: Thriller
+Notes: 
+
+13. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DownTwisted.txt
+Title: Down Twisted
+Year: 1987
+Director: Albert Pyun
+Cast: Carey Lowell, Charles Rocket
+Genre: Thriller
+Notes: 
+
+14. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DreamMachine.txt
+Title: Dream Machine
+Year: 1990
+Director: Lyman Dayton
+Cast: Corey Haim
+Genre: Thriller
+Notes: 
+
+15. C:\Users\admin\eclipse-workspace\Lucene\src\Data\EdgeofHonor.txt
+Title: Edge of Honor
+Year: 1991
+Director: Michael Spence
+Cast: Corey Feldman, Meredith Salenger
+Genre: Thriller
+Notes: 
+
+16. C:\Users\admin\eclipse-workspace\Lucene\src\Data\FlybyNight.txt
+Title: Fly-by-Night
+Year: 1942
+Director: Robert Siodmak
+Cast: Richard Carlson, Nancy Kelly
+Genre: Thriller
+Notes: 
+
+17. C:\Users\admin\eclipse-workspace\Lucene\src\Data\GatorBait.txt
+Title: 'Gator Bait
+Year: 1974
+Director: Beverly Sebastion
+Cast: Claudia Jennings
+Genre: Thriller
+Notes: 
+
+18. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Gotham.txt
+Title: Gotham
+Year: 1988
+Director: Lloyd Fonvielle
+Cast: Tommy Lee Jones, Virginia Madsen
+Genre: Thriller
+Notes: 
+
+19. C:\Users\admin\eclipse-workspace\Lucene\src\Data\ImageoftheBeast.txt
+Title: Image of the Beast
+Year: 1980
+Director: Donald W. Thompson
+Cast: William Wellman, Jr.
+Genre: Thriller
+Notes: 
+
+20. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Images.txt
+Title: Images
+Year: 1972
+Director: Robert Altman
+Cast: Susannah York, Ren? Auberjonois
+Genre: Thriller
+Notes: Columbia
+
+21. C:\Users\admin\eclipse-workspace\Lucene\src\Data\IslandofDoomedMen.txt
+Title: Island of Doomed Men
+Year: 1940
+Director: Charles Barton
+Cast: Peter Lorre
+Genre: Thriller
+Notes: 
+
+22. C:\Users\admin\eclipse-workspace\Lucene\src\Data\ISpitonYourGrave.txt
+Title: I Spit on Your Grave
+Year: 1978
+Director: Meir Zarchi
+Cast: Camille Keaton
+Genre: Thriller
+Notes: 
+
+23. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Joshua.txt
+Title:  Joshua
+Year: 2007
+Director: George Ratliff
+Cast: Sam Rockwell, Vera Farmiga
+Genre: Thriller
+Notes: 
+
+24. C:\Users\admin\eclipse-workspace\Lucene\src\Data\KillingZoe.txt
+Title: Killing Zoe
+Year: 1994
+Director: Roger Avary
+Cast: Eric Stoltz, Julie Delpy
+Genre: Thriller
+Notes: 
+
+25. C:\Users\admin\eclipse-workspace\Lucene\src\Data\LongDistance.txt
+Title: Long Distance
+Year: 2005
+Director: Marcus Stern
+Cast: Monica Keena
+Genre: Thriller
+Notes: 
+

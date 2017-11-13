@@ -1,0 +1,6 @@
+Title: Evil Dead II
+Year: 1987
+Director: Sam Raimi
+Cast: Bruce Campbell
+Genre: Horror
+Notes: sequel to Evil Dead

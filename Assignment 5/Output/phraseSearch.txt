@@ -1,0 +1,17 @@
+Searching for: "harry chamber"~4
+2 total matching documents
+1. C:\Users\prakash\Desktop\Assignment 5\NewData\HarryPotterandtheChamberofSecrets.txt
+Title: Harry Potter and the Chamber of Secrets
+Year: 2002
+Director: Chris Columbus
+Cast: Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Alan Rickman, Maggie Smith, Richard Harris, Kenneth Branagh
+Genre: Family, Fantasy
+Notes: based on a novel by J. K. Rowling
+
+2. C:\Users\prakash\Desktop\Assignment 5\NewData\HarryPotterandthePrisonerofAzkaban.txt
+Title: Harry Potter and the Prisoner of Azkaban
+Year: 2004
+Director: Alfonso Cuar?n
+Cast: Daniel Radcliffe, Rupert Grint, Emma Watson, Robbie Coltrane, Michael Gambon, Richard Griffiths, Gary Oldman, Alan Rickman, Fiona Shaw, Maggie Smith, Timothy Spall, David Thewlis, Maggie Smith, Julie Walters, Dawn French
+Genre: Family, Fantasy
+Notes: Based on Harry Potter and the Prisoner of Azkaban by J. K. Rowling, Preceded by Harry Potter and the Chamber of Secrets

@@ -1,0 +1,204 @@
+queryString = "ruffalo freeman^100"
+
+Searching for: ruffalo freeman^100.0
+110 total matching documents
+1. C:\Users\admin\eclipse-workspace\Lucene\src\Data\NowYouSeeMe.txt
+Title: Now You See Me
+Year: 2013
+Director: Louis Leterrier
+Cast: Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, M?lanie Laurent, Isla Fisher, Dave Franco, Michael Caine, Morgan Freeman
+Genre: Thriller
+Notes: Summit Entertainment
+
+2. C:\Users\admin\eclipse-workspace\Lucene\src\Data\StreetSmart.txt
+Title: Street Smart
+Year: 1987
+Director: Jerry Schatzberg
+Cast: Christopher Reeve, Morgan Freeman, Kathy Baker
+Genre: Drama
+Notes: Oscar nomination for Freeman
+
+3. C:\Users\admin\eclipse-workspace\Lucene\src\Data\CosmicVoyage.txt
+Title: Cosmic Voyage
+Year: 1996
+Director: Bayley Silleck
+Cast: Morgan Freeman (narrator)
+Genre: Documentary
+Notes: 
+
+4. C:\Users\admin\eclipse-workspace\Lucene\src\Data\HurricaneStreets.txt
+Title: Hurricane Streets
+Year: 1997
+Director: Morgan J. Freeman
+Cast: Heather Matarazzo
+Genre: Drama
+Notes: 
+
+5. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheContract.txt
+Title: The Contract
+Year: 2006
+Director: Bruce Beresford
+Cast: Morgan Freeman, John Cusack
+Genre: Drama
+Notes: 
+
+6. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheSender.txt
+Title: The Sender
+Year: 1982
+Director: Roger Christian
+Cast: Kathryn Harrold, Paul Freeman
+Genre: Horror
+Notes: 
+
+7. C:\Users\admin\eclipse-workspace\Lucene\src\Data\10ItemsorLess.txt
+Title: 10 Items or Less
+Year: 2006
+Director: Brad Silberling
+Cast: Morgan Freeman, Paz Vega
+Genre: Comedy
+Notes: 
+
+8. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Bopha.txt
+Title: Bopha!
+Year: 1993
+Director: Morgan Freeman
+Cast: Danny Glover, Malcolm McDowell, Alfre Woodard
+Genre: Drama
+Notes: 
+
+9. C:\Users\admin\eclipse-workspace\Lucene\src\Data\CopperCanyon.txt
+Title: Copper Canyon
+Year: 1950
+Director: John Farrow
+Cast: Ray Milland, Hedy Lamarr, Mona Freeman
+Genre: Western
+Notes: Paramount
+
+10. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DearBrat.txt
+Title: Dear Brat
+Year: 1951
+Director: William A. Seiter
+Cast: Mona Freeman, Billy De Wolfe
+Genre: Comedy
+Notes: 
+
+11. C:\Users\admin\eclipse-workspace\Lucene\src\Data\DragoonWellsMassacre.txt
+Title: Dragoon Wells Massacre
+Year: 1957
+Director: Harold D. Schuster
+Cast: Mona Freeman, Barry Sullivan
+Genre: Western
+Notes: 
+
+12. C:\Users\admin\eclipse-workspace\Lucene\src\Data\FightforLife.txt
+Title: Fight for Life
+Year: 1987
+Director: Elliot Silverstein
+Cast: Jerry Lewis, Patty Duke, Morgan Freeman
+Genre: Drama
+Notes: made for TV
+
+13. C:\Users\admin\eclipse-workspace\Lucene\src\Data\HarlemAfterMidnight.txt
+Title: Harlem After Midnight
+Year: 1934
+Director: Oscar Micheaux
+Cast: Rex Ingram, Bee Freeman, Lawrence Chenault
+Genre: Drama
+Notes: 
+
+14. C:\Users\admin\eclipse-workspace\Lucene\src\Data\HoldBacktheNight.txt
+Title: Hold Back the Night
+Year: 1956
+Director: Allan Dwan
+Cast: John Payne, Mona Freeman, Peter Graves
+Genre: War drama
+Notes: 
+
+15. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Homecoming.txt
+Title: Homecoming
+Year: 2009
+Director: Morgan J. Freeman
+Cast: Mischa Barton, Matt Long, Jessica Stroup
+Genre: Horror
+Notes: Animus Films
+
+16. C:\Users\admin\eclipse-workspace\Lucene\src\Data\IWasaShoplifter.txt
+Title: I Was a Shoplifter
+Year: 1950
+Director: Charles Lamont
+Cast: Mona Freeman, Scott Brady, Charles Drake
+Genre: Crime
+Notes: Universal
+
+17. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Seven.txt
+Title: Seven
+Year: 1995
+Director: David Fincher
+Cast: Brad Pitt, Morgan Freeman, Kevin Spacey, Gwyneth Paltrow
+Genre: Thriller
+Notes: 
+
+18. C:\Users\admin\eclipse-workspace\Lucene\src\Data\SilentNightDeadlyNightPart2.txt
+Title: Silent Night, Deadly Night Part 2
+Year: 1987
+Director: Lee Harry
+Cast: Eric Freeman
+Genre: Slasher
+Notes: sequel
+
+19. C:\Users\admin\eclipse-workspace\Lucene\src\Data\TheBucketList.txt
+Title: The Bucket List
+Year: 2007
+Director: Rob Reiner
+Cast: Jack Nicholson, Morgan Freeman
+Genre: Dramedy
+Notes: Warner Bros. Pictures
+
+20. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Transcendence.txt
+Title: Transcendence
+Year: 2014
+Director: Wally Pfister
+Cast: Johnny Depp, Morgan Freeman, Rebecca Hall
+Genre: Science fiction
+Notes: Warner Bros.
+
+21. C:\Users\admin\eclipse-workspace\Lucene\src\Data\YouGotServed.txt
+Title: You Got Served
+Year: 2004
+Director: Chris Stokes
+Cast: Marques Houston, Omarion Grandberry, Jennifer Freeman
+Genre: Comedy
+Notes: 
+
+22. C:\Users\admin\eclipse-workspace\Lucene\src\Data\AlongCameaSpider.txt
+Title: Along Came a Spider
+Year: 2001
+Director: Lee Tamahori
+Cast: Morgan Freeman, Monica Potter, Dylan Baker
+Genre: Crime, thriller
+Notes: based on Along Came a Spider by James Patterson
+
+23. C:\Users\admin\eclipse-workspace\Lucene\src\Data\Amistad.txt
+Title: Amistad
+Year: 1997
+Director: Steven Spielberg
+Cast: Morgan Freeman, Anthony Hopkins, Djimon Hounsou, Matthew McConaughey, Stellan Skarsg?rd, Anna Paquin
+Genre: Drama
+Notes: 4 Oscar nominations
+
+24. C:\Users\admin\eclipse-workspace\Lucene\src\Data\AnUnfinishedLife.txt
+Title: An Unfinished Life
+Year: 2005
+Director: Lasse Hallstr?m
+Cast: Robert Redford, Jennifer Lopez, Morgan Freeman, Josh Lucas
+Genre: Drama
+Notes: based on An Unfinished Life by Mark Spragg
+
+25. C:\Users\admin\eclipse-workspace\Lucene\src\Data\BatmanBegins.txt
+Title: Batman Begins
+Year: 2005
+Director: Christopher Nolan
+Cast: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes, Gary Oldman, Morgan Freeman
+Genre: Superhero
+Notes: Based on the DC Comics character
+
